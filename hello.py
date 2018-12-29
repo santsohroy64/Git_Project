@@ -33,8 +33,8 @@
 # 1number = 4, special chacr #,num&ber -> not allowed
 # letter,_,num123ber -> allowed
 
-# Convention or Recommendatio
-# num_123_ber: snake case writting
-# Num_123_Ber: camel case writting
+Convention or Recommendatio
+Num_123_ber: snake case writting
+Num_123_Ber: camel case writting
 
 
